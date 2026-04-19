@@ -22,8 +22,6 @@ Welcome to my portfolio! Here I showcase some of the projects where I apply my d
 ### [Synthetic Patient Data Generation Privacy SDV ](https://github.com/AlfredoVilla97/Synthetic-Patient-Data-Generation-Privacy-SDV)
 > This project creates synthetic patient data for healthcare research. Since real patient information is private and protected by law, this approach generates artificial data that looks and behaves very similar to real data, but without exposing any personal information. The goal is to allow safe data for research while maintaining patients privacy
 
-✨ **More personal projects coming soon!**
-
 🛠️ **Tools & Skills** 
 ----
 - **Programming & Data Analysis:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
